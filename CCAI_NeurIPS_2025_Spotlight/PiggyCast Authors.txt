@@ -1,0 +1,5 @@
+Author(s):
+*   Josiah K. Kimani, [African Institute for Mathematical Sciences (AIMS) - South Africa](https://aims.ac.za/), josiah@aims.ac.za
+*   Oliver Angélil, [Ishango.ai](https://ishango.ai/), oliver@ishango.ai
+*   Chris Toumping Fotso, [Ishango.ai](https://ishango.ai/), chris@ishango.ai
+*   Steffen Knoblauch, [University of Heidelberg](https://www.uni-heidelberg.de/en), steffen.knoblauch@uni-heidelberg.de
